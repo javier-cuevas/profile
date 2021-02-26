@@ -1,0 +1,171 @@
+{
+    "name":"Javier Cuevas",
+    "job":"Developer",
+    "rol":"Fullstack",
+    "stack":"MEARN",
+    "social_media":[
+        {
+            "title":"Follow me on LinkedIn",
+            "icon":"fab fa-linkedin-in",
+            "url":"https://www.linkedin.com/in/javier-cuevas-mx/"
+        },
+        {
+            "title":"Follow me on Github",
+            "icon":"fab fa-github",
+            "url":"https://github.com/javier-cuevas/javier-cuevas"
+        }
+    ],
+    "about_title":"About Me",
+    "about":"Software Developer Passionate Front-End, Fullstack, Hybrid Apps, Pentesting.",
+    "skills_title":"My Skills",
+    "skills":[
+        {
+            "type":"frontend",
+            "title":"Front End",
+            "text":"Web UI development and layout, attention to pixel, responsive design and mobile first.",
+            "list":[
+                { 
+                    "title":"Angular Framework V4-V11",
+                    "icon":"fab fa-angular", 
+                    "color":"text-danger" 
+                },
+                { 
+                    "title":"HTML5", 
+                    "icon":"fab fa-html5", 
+                    "color":"text-orange" 
+                },
+                { 
+                    "title":"CSS", 
+                    "icon":"fab fa-css3-alt", 
+                    "color":"text-info" 
+                },
+                { 
+                    "title":"JavaScript ES6-ES2020", 
+                    "icon":"fab fa-js",
+                    "color":"text-warning" 
+                },
+                { 
+                    "title":"Typescript", 
+                    "icon":"fas fa-file-code",
+                    "color":"text-primary" 
+                },
+                { 
+                    "title":"jQuery", 
+                    "icon":"fas fa-file-code",
+                    "color":"text-info" 
+                },
+                { 
+                    "title":"Bootstrap Toolkit", 
+                    "icon":"fab fa-bootstrap",
+                    "color":"text-purple" 
+                },
+                { 
+                    "title":"Angular Material",
+                    "icon":"fab fa-angular", 
+                    "color":"text-primary" 
+                },
+                { 
+                    "title":"Wordpress",
+                    "icon":"fab fa-wordpress", 
+                    "color":"text-info" 
+                }
+            ]
+        },
+        {
+            "type":"backend",
+            "title":"Back End",
+            "text":"Development and implementation of web services, REST API, Databases Admin and deployment to production.",
+            "list":[
+                { 
+                    "title":"Node.js",
+                    "icon":"fab fa-node", 
+                    "color":"text-success" 
+                },
+                { 
+                    "title":"PHP", 
+                    "icon":"fab fa-php", 
+                    "color":"text-purple" 
+                },
+                { 
+                    "title":"MongoDB", 
+                    "icon":"fa fa-database", 
+                    "color":"text-success" 
+                },
+                { 
+                    "title":"MySQL", 
+                    "icon":"fa fa-database",
+                    "color":"text-primary" 
+                },
+                { 
+                    "title":"Nginx, Apache", 
+                    "icon":"fa fa-terminal",
+                    "color":"text-success" 
+                },
+                { 
+                    "title":"Ubuntu, IIS, AWS, Azure", 
+                    "icon":"fas fa-server",
+                    "color":"text-info" 
+                }
+            ]
+        },
+        {
+            "type":"mobile",
+            "title":"Mobile",
+            "text":"Development Android and iOS Hybrid Apps, Publication in Play Store and App Store.",
+            "list":[
+                { 
+                    "title":"Ionic Framework",
+                    "icon":"fas fa-file-code", 
+                    "color":"text-primary" 
+                },
+                { 
+                    "title":"Cordova", 
+                    "icon":"fas fa-file-code", 
+                    "color":"text-info" 
+                },
+                { 
+                    "title":"Android", 
+                    "icon":"fa fa-android",
+                    "color":"text-success" 
+                },
+                { 
+                    "title":"iOS", 
+                    "icon":"fa fa-apple",
+                    "color":"text-secondary" 
+                },
+                { 
+                    "title":"Play Store", 
+                    "icon":"fab fa-google-play",
+                    "color":"text-info" 
+                },
+                { 
+                    "title":"App Store", 
+                    "icon":"fab fa-app-store-ios",
+                    "color":"text-primary" 
+                }
+            ]
+        },
+        {
+            "type":"courses",
+            "title":"Courses",
+            "text":"Constant training, Courses and autodidactic.",
+            "list":[
+                { 
+                    "title":"Version Control",
+                    "icon":"fas fa-code-branch", 
+                    "color":"text-primary" 
+                },
+                { 
+                    "title":"Pentesting", 
+                    "icon":"fas fa-user-secret", 
+                    "color":"text-secondary" 
+                },
+                { 
+                    "title":"Google Ads", 
+                    "icon":"fab fa-google",
+                    "color":"text-danger" 
+                }
+            ]
+        }
+    ]
+}
